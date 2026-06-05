@@ -1,0 +1,16 @@
+{
+  "name": "uview-skills",
+  "version": "1.0.0",
+  "description": "uView UI framework skills",
+  "author": {
+    "name": "PartMeAI",
+    "email": "partmeai@gmail.com"
+  },
+  "homepage": "https://github.com/full-statck-skills/uview-skills",
+  "repository": "https://github.com/full-statck-skills/uview-skills",
+  "source": "./",
+  "skills": [
+    "./skills/uview-pro-vue3",
+    "./skills/uview-vue2"
+  ]
+}
