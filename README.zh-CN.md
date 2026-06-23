@@ -4,7 +4,7 @@
 
 **uView UI framework skills — uView 2.x, uView Pro for uni-app**
 
-[![GitHub](https://img.shields.io/badge/github-full--statck--skills%2Fuview-skills-green.svg)](https://github.com/full-statck-skills/uview-skills)
+[![GitHub](https://img.shields.io/badge/github-full--stack--skills%2Fuview-skills-green.svg)](https://github.com/full-stack-skills/uview-skills)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
 [![Agent Skills](https://img.shields.io/badge/Agent%20Skills-兼容-purple.svg)](https://agentskills.io)
 
@@ -21,7 +21,7 @@
 ## 📦 安装
 
 ```bash
-npx skills add full-statck-skills/uview-skills
+npx skills add full-stack-skills/uview-skills
 ```
 
 ## 🎯 技能列表 (2)
@@ -40,13 +40,13 @@ npx skills add full-statck-skills/uview-skills
 **方式一：npx skills CLI（推荐）**
 
 ```bash
-npx skills add full-statck-skills/uview-skills
+npx skills add full-stack-skills/uview-skills
 ```
 
 **方式二：手动安装**
 
 ```bash
-git clone https://github.com/full-statck-skills/uview-skills.git
+git clone https://github.com/full-stack-skills/uview-skills.git
 cp -r uview-skills/skills/* .claude/skills/
 ```
 
